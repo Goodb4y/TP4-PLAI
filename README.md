@@ -1,2 +1,2 @@
-# TP4-PLAI
-Trabajo Practico 4, Programación Aplicada I
+# Trabajo Practico Nº 4 | Programacion Aplicada I
+Estructuras y manejo de cadenas
