@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TP4-CONSOLA/1.0.0": {
+        "runtime": {
+          "TP4-CONSOLA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP4-CONSOLA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
